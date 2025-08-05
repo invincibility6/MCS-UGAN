@@ -11,7 +11,7 @@ git clone https://github.com/invincibility6/MCS-UGAN.git
 The training dataset should be placed in folder "./Dataset/train".
 Start training by using the following command:
 ```  
-python train_MuLA_GAN.py
+python train.py
 ```
 
 ## Testing a Model
